@@ -1,0 +1,58 @@
+C Programming Language:
+
+Programming: set of instructions / statements
+
+Language: Medium of Communication
+
+Human			Computer System
+English    -----> 	Binary Language
+
+
+English ----> Compiler (Translator) ----> Binary Language
+
+Compiler: English to Binary
+
+English: High Level Language
+Binary Language: Low Level Language
+
+Compiler : HLL to LLL
+
+Computer System ---> Binary Language
+
+Binary: 2 (0 or 1)
+
+Computer ---> Electronic Device ---> Current Flow (1) ----> No Current Flow (0)
+
+C History:
+
+- Dennis Ritchie, 1972
+- Rebuild/Refine OS in C programming language
+
+- Variable and constant
+- data types
+- Operators
+- Decision making statements
+- Loops
+- Arrays
+- Functions
+- Strings
+
+- 90% practical exposure
+
+1. Turbo C++
+2. Code::Blocks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
