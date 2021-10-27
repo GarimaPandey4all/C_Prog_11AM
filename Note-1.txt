@@ -1,0 +1,11 @@
+RAM: Random Access Memory: It is used at During a runtime or execution time
+
+- Temporary Memory
+- Main Memory
+- Primary Memory
+
+Heap: Dynamic Memory Allocation
+Stack(Last - in First - out): Static Memory Allocation
+
+exe : Softwware File / Executable File
+It is only readable by system not by human
